@@ -64,7 +64,7 @@
         </div>
         <div class="content">
           <ol class="c">
-              <li>[MobiCom'21] Ruofeng Liu, <b>Zhimeng Yin</b>, Wenchao Jiang, and Tian He. WiBeacon: Expanding BLE Location-based Services via WiFi. 
+              <li>[MobiCom'21] Ruofeng Liu, <b>Zhimeng Yin</b>, Wenchao Jiang, and Tian He. "WiBeacon: Expanding BLE Location-based Services via WiFi",
                 conditionally accepted by the 27th Annual International Conference on Mobile Computing and Networking. </li>
               <li>[ICDCS'20] <b>Zhimeng Yin</b>, Wenchao Jiang, Ruofeng Liu, Song Min Kim, and Tian He, "SafetyNet: Interference Protection via Transparent PHY Layer Coding", 
                 accepted by 40th IEEE International Conference on Distributed Computing Systems.</li>
