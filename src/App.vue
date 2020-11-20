@@ -33,7 +33,7 @@
       </div>
       <div class="openings">
         <div class="head2">Openings</div>
-        <div>Recruiting Research Assistants (multiple positions) for Fall 2021. </div>
+        <div>Recruiting Doctor of Philosophy (multiple positions) for Fall 2021. </div>
       </div>
       <div class="cv">
         <div class="head2">CV</div>
